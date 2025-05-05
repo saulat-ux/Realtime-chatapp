@@ -1,0 +1,10 @@
+# Node modules in root and subdirectories
+node_modules/
+
+# Frontend dist folder
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+*.env
